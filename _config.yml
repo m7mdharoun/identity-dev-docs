@@ -25,3 +25,5 @@ defaults:
       path: ""
     values:
       layout: main
+
+theme: jekyll-theme-minimal
